@@ -1,4 +1,5 @@
 GAE_gicotask/
 venv/
-.ides/
+.idea/
 *.iml
+"Icon\r"

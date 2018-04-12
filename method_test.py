@@ -20,7 +20,7 @@ def sort_test(test_list, sort_method, sorted_list, base_during_time=1):
                 break
     else:
         sorted_list += test_sort_copy
-        base_during_time = during_time
+        base_during_time = current_during_time
 
     print(sort_method.__name__, "%.2f" % (current_during_time / base_during_time), is_same)
 
