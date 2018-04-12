@@ -1,0 +1,4 @@
+GAE_gicotask/
+venv/
+.ides/
+*.iml
